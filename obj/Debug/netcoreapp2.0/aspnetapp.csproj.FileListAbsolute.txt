@@ -1,0 +1,11 @@
+D:\C# Code\aspnetapp\bin\Debug\netcoreapp2.0\aspnetapp.deps.json
+D:\C# Code\aspnetapp\bin\Debug\netcoreapp2.0\aspnetapp.runtimeconfig.json
+D:\C# Code\aspnetapp\bin\Debug\netcoreapp2.0\aspnetapp.runtimeconfig.dev.json
+D:\C# Code\aspnetapp\bin\Debug\netcoreapp2.0\aspnetapp.dll
+D:\C# Code\aspnetapp\bin\Debug\netcoreapp2.0\aspnetapp.pdb
+D:\C# Code\aspnetapp\obj\Debug\netcoreapp2.0\aspnetapp.csprojResolveAssemblyReference.cache
+D:\C# Code\aspnetapp\obj\Debug\netcoreapp2.0\aspnetapp.csproj.CoreCompileInputs.cache
+D:\C# Code\aspnetapp\obj\Debug\netcoreapp2.0\aspnetapp.AssemblyInfoInputs.cache
+D:\C# Code\aspnetapp\obj\Debug\netcoreapp2.0\aspnetapp.AssemblyInfo.cs
+D:\C# Code\aspnetapp\obj\Debug\netcoreapp2.0\aspnetapp.dll
+D:\C# Code\aspnetapp\obj\Debug\netcoreapp2.0\aspnetapp.pdb
